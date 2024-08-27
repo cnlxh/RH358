@@ -1,0 +1,6 @@
+Bruce Wolfe - bwolfe@redhat.com, Feb 2014
+
+"zzz-sampleimage.svg" is only in this directory to remove build warnings.
+It is referenced in ../sg-chapters/topics/zzz-snippets.xml.
+Both files can be safely deleted when the course is complete.
+Recommend deleting both files concurrently.
